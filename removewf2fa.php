@@ -1,13 +1,12 @@
 <?php
 /**
  * Plugin Name:       Remove WordFence 2FA
- * Plugin URI:        #
  * Description:       (Visually) removes all trace of the WordFence 2FA feature
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Sam Tarling
- * Author URI:        https://www.samtarling.co.uk
+ * Author URI:        https://www.samt.dev
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       removewf2fa
